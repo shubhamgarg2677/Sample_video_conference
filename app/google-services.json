@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872227479320",
+    "firebase_url": "https://sample-video-conference.firebaseio.com",
+    "project_id": "sample-video-conference",
+    "storage_bucket": "sample-video-conference.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872227479320:android:90e4f5c6eb389ca3e4486d",
+        "android_client_info": {
+          "package_name": "com.shubham.samplevideoconference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872227479320-a9pddep1hobvcdmb1qqv3dqqicrnrr83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.samplevideoconference",
+            "certificate_hash": "bfd21a7d41931a3bec9633e46b63cea0a08aa42a"
+          }
+        },
+        {
+          "client_id": "872227479320-6fr0d4tueqjr1362gf7a29aaa7kf6gin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9BW_0RpnhSaX1ma3-IkwJPbE94ANDXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872227479320-6fr0d4tueqjr1362gf7a29aaa7kf6gin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
